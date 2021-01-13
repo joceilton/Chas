@@ -1,0 +1,21 @@
+const chas = [
+ 
+ {
+   id : 1,
+   nome : 'Erva Doce',
+   image : require('../img/erva-doce.jpg'),
+   beneficios: 'O chá de erva-doce serve para melhorar os sintomas de gripe e resfriado, como tosse, coriza e catarro. Este chá também é bastante conhecido por estimular a produção de leite materno.',
+   igredientes: '1 colher (de chá) de erva-doce seca;\n 1 xícara de água.',
+   mododeuso: 'Para preparar o chá deve-se ferver a água, depois colocar esta água em uma xícara junto com a erva-doce. Em seguida, é preciso tapar e deixar descansar de 3 a 5 minutos e depois coar e beber a seguir.\n A erva-doce também pode ser usada em receitas doces, como bolos e biscoitos. Quando usada em forma de cápsulas deve-se usar segundo a orientação do médico ou fitoterapeuta.'
+ },
+ {
+   id : 2,
+   nome : 'Camomila',
+   image : require('../img/camomila.jpg'),
+   beneficios: ''
+ },
+
+]
+
+export default chas
+  
