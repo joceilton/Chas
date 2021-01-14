@@ -1,4 +1,5 @@
- {
+[ 
+{
    id : 1,
    nome : 'Erva Doce',
    image : require('../img/erva-doce.jpg'),
@@ -12,5 +13,6 @@
    image : require('../img/camomila.jpg'),
    beneficios: ''
  }
+ ]
 
   
